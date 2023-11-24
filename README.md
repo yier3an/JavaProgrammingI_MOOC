@@ -2,9 +2,9 @@
 [Java Programming I](https://java-programming.mooc.fi/) course on MOOC, offered by University of Helsinki.
 
 - ### Topics:
-  - [ ] Part 1:
+  - [x] Part 1:
     - getting familiar with Java
-  - [ ] Part 2:
+  - [x] Part 2:
     - repetition in programs
     - how to divide functionality into distinct units
   - [ ] Part 3:
