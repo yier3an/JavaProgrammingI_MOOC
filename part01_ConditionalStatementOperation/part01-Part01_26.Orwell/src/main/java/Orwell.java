@@ -1,18 +1,20 @@
 
 import java.util.Scanner;
 
-public class Orwell {
+public class Orwell
+{
+    public static void main (String [] args)
+	{
+		Scanner scan = new Scanner (System.in);
 
-    public static void main(String[] args) {
-	Scanner scan = new Scanner(System.in);
+		// Write your program here
+		System.out.println ("Give a number:");
 
-	// Write your program here
-	System.out.println("Give a number:");
+		int no = Integer.valueOf (scan.nextLine ());
 
-	int no = Integer.valueOf(scan.nextLine());
-
-	if (no == 1984) {
-	    System.out.println("Orwell");
-	}
+		if (no == 1984)
+		{
+			System.out.println ("Orwell");
+		}
     }
 }
