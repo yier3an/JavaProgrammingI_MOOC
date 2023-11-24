@@ -1,9 +1,10 @@
 
-public class HiAdaLovelace {
-
-    public static void main(String[] args) {
+public class HiAdaLovelace
+{
+    public static void main (String [] args)
+    {
         String name = "Ada Lovelace";
 
-	System.out.println("Hi " + name + "!");
+	    System.out.println ("Hi " + name + "!");
     }
 }
