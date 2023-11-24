@@ -8,9 +8,9 @@ public class BooleanInput
         Scanner scanner = new Scanner (System.in);
 
         // write your program here
-	System.out.println ("Write something: ");
-	boolean test = Boolean.valueOf (scanner.nextLine ());
-	
-	System.out.println ("True or false? " + test);
+        System.out.println ("Write something: ");
+        boolean test = Boolean.valueOf (scanner.nextLine ());
+        
+        System.out.println ("True or false? " + test);
     }
 }
