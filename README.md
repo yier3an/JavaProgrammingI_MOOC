@@ -7,7 +7,7 @@
   - [x] Part 2:
     - repetition in programs
     - how to divide functionality into distinct units
-  - [ ] Part 3:
+  - [x] Part 3:
     - adding information to list and array data structures
     - handling information in string form
   - [ ] Part 4:
