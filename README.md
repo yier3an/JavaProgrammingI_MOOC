@@ -10,7 +10,7 @@
   - [x] Part 3:
     - adding information to list and array data structures
     - handling information in string form
-  - [ ] Part 4:
+  - [x] Part 4:
     - object-oriented programming
     - reading data from files
   - [ ] Part 5:
